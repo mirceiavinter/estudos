@@ -1,0 +1,6 @@
+c:\users\mirceia\documents\visual studio 2017\Projects\ExercicioOrientacaoAObjetos\ExercicioOrientacaoAObjetos\bin\Debug\ExercicioOrientacaoAObjetos.exe.config
+c:\users\mirceia\documents\visual studio 2017\Projects\ExercicioOrientacaoAObjetos\ExercicioOrientacaoAObjetos\bin\Debug\ExercicioOrientacaoAObjetos.exe
+c:\users\mirceia\documents\visual studio 2017\Projects\ExercicioOrientacaoAObjetos\ExercicioOrientacaoAObjetos\bin\Debug\ExercicioOrientacaoAObjetos.pdb
+c:\users\mirceia\documents\visual studio 2017\Projects\ExercicioOrientacaoAObjetos\ExercicioOrientacaoAObjetos\obj\Debug\ExercicioOrientacaoAObjetos.exe
+c:\users\mirceia\documents\visual studio 2017\Projects\ExercicioOrientacaoAObjetos\ExercicioOrientacaoAObjetos\obj\Debug\ExercicioOrientacaoAObjetos.pdb
+C:\Users\Mirceia\documents\visual studio 2017\Projects\ExercicioOrientacaoAObjetos\ExercicioOrientacaoAObjetos\obj\Debug\ExercicioOrientacaoAObjetos.csprojResolveAssemblyReference.cache
